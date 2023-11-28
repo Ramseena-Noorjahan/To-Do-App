@@ -24,7 +24,7 @@ function App() {
           <div className="todo">
             <div className="left">
               <input type="checkbox" name="" id="" />
-              <p>Rect tutorial</p>
+              <p>React tutorial</p>
             </div>
             <div className="right">
               <i className="fas fa-times"></i>
